@@ -10,6 +10,7 @@ namespace TestTask
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
