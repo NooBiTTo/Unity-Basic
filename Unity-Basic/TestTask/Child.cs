@@ -41,6 +41,6 @@ namespace TestTask
                 Bill.Add(Bill[Bill.Count - 1] + numberOfApples);
             return Bill;
         }
-
+        //fadsfdfasd
     }
 }
