@@ -14,6 +14,8 @@ namespace TestTask
             masha.addApples(5);
             masha.addApples(10);
             masha.addApples(20);
+            Child dasha = new Child("Dasha");
+            dasha.addApples(60);
         }
     }
 }
